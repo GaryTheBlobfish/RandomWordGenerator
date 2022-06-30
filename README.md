@@ -4,23 +4,23 @@
 > - code easy to read lol
 
 ## v2.0 examples
-ebebeeboo
-glebs
-veetxe
-bnehzehab
-inoeb
-otr
-seefr
-doboecbo
-ntebitta
-aya
-bbababaib
-erwa
-eebihies
-dontoe
-bribee
-bkebwa
-bbeesepb
-bsesnae
-eitebee
-otnietbo
+ebebeeboo  
+glebs  
+veetxe  
+bnehzehab  
+inoeb  
+otr  
+seefr  
+doboecbo  
+ntebitta  
+aya  
+bbababaib  
+erwa  
+eebihies  
+dontoe  
+bribee  
+bkebwa  
+bbeesepb  
+bsesnae  
+eitebee  
+otnietbo  
