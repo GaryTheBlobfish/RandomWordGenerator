@@ -1,2 +1,4 @@
 # RandomWordGenerator
-Random word generator in python - code easy to understand
+> Random word generator in python
+> - does what it says on the tin
+> - code easy to read lol
