@@ -2,7 +2,7 @@
 > Random word generator in python
 > - generates random words out of combinations of vowels and consonants
 > - words are NOT meant to be in a specific language but DO follow the   
-    chances of letters in the English language.
+    chances of letters in the English language. These words have no meaning
 > - code easy to read lol
 
 ## v2.0 examples
