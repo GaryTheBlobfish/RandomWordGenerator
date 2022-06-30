@@ -1,6 +1,6 @@
 # RandomWordGenerator
 > Random word generator in python
-> - does what it says on the tin
+> - generates random words out of combinations of vowels and consonants
 > - code easy to read lol
 
 ## v1.0 examples
